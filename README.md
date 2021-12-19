@@ -1,5 +1,5 @@
 # Proyecto-Codo-a-codo
-<div align="center"> <a href="https://agenciadeaprendizaje.bue.edu.ar/" title="Agencia de Aprendizaje a lo Largo de la Vida - " <img src="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png" alt="Agencia de Aprendizaje a lo Largo de la Vida" data-retina="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png"> </a>
+<div align="center"> <a href="https://agenciadeaprendizaje.bue.edu.ar/" title="Agencia de Aprendizaje a lo Largo de la Vida - "> <img src="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png" alt="Agencia de Aprendizaje a lo Largo de la Vida" data-retina="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png"> </a>
 </div>
 
 ## Registro de Alumnos 🐾
