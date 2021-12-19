@@ -5,7 +5,7 @@
 ## Registro de Alumnos ⌨
 Proyecto realizado con ```Java```, ```Bases de datos (MySQL)``` y el ```IDE Netbeans```.  
 
-## Vista previa de la Interfaz Gráfica de Usuario (IGU)
+## Vista previa
 
 ![image](https://user-images.githubusercontent.com/83146564/142158599-7f3a7d9b-6c6c-4d55-a5fb-ec6103f5e0b2.png)
 
