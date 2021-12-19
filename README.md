@@ -1,5 +1,6 @@
 # Proyecto-Codo-a-codo
-<div align="center"><a href="https://polotic.misiones.gob.ar/"> <img src=https://user-images.githubusercontent.com/83146564/142157933-6b591657-7558-4f9b-9ba6-cc4874cde2f9.png></a> </div>
+<div align="center"><a href="https://polotic.misiones.gob.ar/"> <img src="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png" alt="Agencia de Aprendizaje a lo Largo de la Vida" data-retina="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png">
+</div>
 
 ## Registro de Alumnos 🐾
 Proyecto realizado con ```Java Persistence API (JPA)```, ```Java Database Connectivity (JDBC)```, ```Bases de datos (MySQL)``` y el ```IDE Netbeans``` con conocimientos en ```Interfaz Gráfica de Usuario (IGU)```.  
