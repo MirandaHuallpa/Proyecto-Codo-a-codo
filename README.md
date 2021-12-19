@@ -2,8 +2,8 @@
 <div align="center"> <a href="https://agenciadeaprendizaje.bue.edu.ar/" title="Agencia de Aprendizaje a lo Largo de la Vida - "> <img src="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png" alt="Agencia de Aprendizaje a lo Largo de la Vida" data-retina="https://agenciadeaprendizaje.bue.edu.ar/wp-content/uploads/2020/11/logos-header.png"> </a>
 </div>
 
-## Registro de Alumnos 🐾
-Proyecto realizado con ```Java Persistence API (JPA)```, ```Java Database Connectivity (JDBC)```, ```Bases de datos (MySQL)``` y el ```IDE Netbeans``` con conocimientos en ```Interfaz Gráfica de Usuario (IGU)```.  
+## Registro de Alumnos ⌨
+Proyecto realizado con ```Java```, ```Bases de datos (MySQL)``` y el ```IDE Netbeans```.  
 
 ## Vista previa de la Interfaz Gráfica de Usuario (IGU)
 
